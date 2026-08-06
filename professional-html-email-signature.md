@@ -75,8 +75,6 @@ If you need a custom HTML email signature for Gmail, Outlook, Apple Mail, or any
 A professional HTML email signature helps build trust, strengthen your brand, and make every email more effective. Whether you are a freelancer, business owner, or consultant, investing in a well-designed HTML email signature can improve your professional image and create more business opportunities.
 
 
-**Need a custom HTML email signature?**
-Visit my **[Services](services.html)** page to see how I can help.
 ## Frequently Asked Questions
 
 ### What is an HTML email signature?
