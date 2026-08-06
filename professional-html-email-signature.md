@@ -88,6 +88,8 @@ An HTML email signature is a professionally designed email signature with clicka
 Yes. Gmail supports HTML email signatures when they are created correctly.
 
 **Related Services:** I also design custom HTML email signatures for Gmail, Outlook, Apple Mail, Mailchimp, and other email platforms.
+**Tags:** HTML Email Signature, Professional Email Signature, Gmail Email Signature, Outlook Email Signature
+
 ## Contact
 
 Email: nasirslec@gmail.com
