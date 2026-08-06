@@ -82,8 +82,14 @@ If you need a custom HTML email signature for Gmail, Outlook, Apple Mail, or any
 
 **Need a custom HTML email signature?**
 Visit my **[Services](services.html)** page to see how I can help.
+## Frequently Asked Questions
 
-## Contact
+### What is an HTML email signature?
+An HTML email signature is a professionally designed email signature with clickable links, images, and branding.
+
+### Does an HTML email signature work in Gmail?
+Yes. Gmail supports HTML email signatures when they are created correctly.
+
 ## Contact
 
 Email: nasirslec@gmail.com
