@@ -84,7 +84,9 @@ A professional HTML email signature helps build trust, strengthen your brand, an
 An HTML email signature is a professionally designed email signature with clickable links, images, and branding.
 
 ### Does an HTML email signature work in Gmail?
+
 Yes. Gmail supports HTML email signatures when they are created correctly.
+
 ### Does an HTML email signature work in Outlook?
 
 Yes. A professionally coded HTML email signature works in Microsoft Outlook, Gmail, Apple Mail, and most major email clients.
