@@ -58,7 +58,6 @@ My service is useful for:
 - Agencies
 - Online entrepreneurs
 
-## 
 
 ## Benefits of a Professional HTML Email Signature
 
