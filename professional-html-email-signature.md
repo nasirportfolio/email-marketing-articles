@@ -94,4 +94,6 @@ Yes. A professionally coded HTML email signature works in Microsoft Outlook, Gma
 **Related Services:** I also design custom HTML email signatures for Gmail, Outlook, Apple Mail, Mailchimp, and other email platforms.
 ## Contact
 
-Email: Email: <a href="https://nasirportfolio.github.io/my-website-repository/">nasirslec@gmail.com</a>
+## Contact
+
+Visit my website: [nasirportfolio.github.io](https://nasirportfolio.github.io/my-website-repository/)
