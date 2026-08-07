@@ -93,6 +93,6 @@ Yes. A professionally coded HTML email signature works in Microsoft Outlook, Gma
 
 **Related Services:** I also design custom HTML email signatures for Gmail, Outlook, Apple Mail, Mailchimp, and other email platforms.
 ## Contact<a href="https://nasirportfolio.github.io/my-website-repository/">nasirslec@gmail.com</a>
-Email 
 
-Email:   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nasirslec@gmail.com">
+Email: 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nasirslec@gmail.com">
