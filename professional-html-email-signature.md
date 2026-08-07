@@ -92,7 +92,6 @@ Yes. Gmail supports HTML email signatures when they are created correctly.
 Yes. A professionally coded HTML email signature works in Microsoft Outlook, Gmail, Apple Mail, and most major email clients.
 
 **Related Services:** I also design custom HTML email signatures for Gmail, Outlook, Apple Mail, Mailchimp, and other email platforms.
-## Contact<a href="https://nasirportfolio.github.io/my-website-repository/">nasirslec@gmail.com</a>
+## Contact
 
-Email: 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nasirslec@gmail.com">
+Email: nasirslec@gmail.com
