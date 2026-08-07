@@ -1,8 +1,9 @@
-<meta name="google-site-verification" content="ziaLfG_QxmTvbOIoHAM72FYDbZgVV5pM5xMfDfrNBmA" />
 ---
 layout: default
 title: Email Marketing Articles
 ---
+
+<meta name="google-site-verification" content="ziaLfG_QxmTvbOIoHAM72FYDbZgVV5pM5xMfDfrNBmA" />
 
 # Email Marketing Articles
 
