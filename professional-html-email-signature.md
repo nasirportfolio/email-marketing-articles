@@ -75,7 +75,7 @@ If you need a custom HTML email signature for Gmail, Outlook, Apple Mail, or any
 Visit my ***[Services](https://nasirportfolio.github.io/my-website-repository/services.html) page to see how I can help.
 ## Related Article
 <p>
-<a href="how-to-create-html-email-signature-outlook.html">
+<a href="https://nasirportfolio.github.io/email-marketing-articles/how-to-create-html-email-signature-outlook.html">
 How to Create an HTML Email Signature for Outlook
 </a>
 </p>
