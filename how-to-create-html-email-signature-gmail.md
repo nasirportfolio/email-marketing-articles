@@ -146,6 +146,7 @@ You can learn more about my service on my [Services page](https://nasirportfolio
 
 You can also read my related guide:
 
+[How to Create an HTML Email Signature for Outlook](https://nasirportfolio.github.io/email-marketing-articles/how-to-create-html-email-signature-outlook.html)
 [Why Every Business Needs a Professional HTML Email Signature in 2026](https://nasirportfolio.github.io/email-marketing-articles/)
 
 ## Frequently Asked Questions
