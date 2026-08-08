@@ -73,6 +73,11 @@ If you need a custom HTML email signature for Gmail, Outlook, Apple Mail, or any
 
 **Need a custom HTML email signature?**  
 Visit my ***[Services](https://nasirportfolio.github.io/my-website-repository/services.html) page to see how I can help.
+## Related Article
+
+If you're using Gmail, read our step-by-step guide:
+
+[How to Create an HTML Email Signature for Gmail](https://nasirportfolio.github.io/email-marketing-articles/how-to-create-html-email-signature-gmail.html)
 
 ## Conclusion
 
