@@ -1,1 +1,9 @@
 theme: minima
+minima:
+  skin: classic
+
+header_pages:
+  - index.md
+
+include:
+  - _includes
