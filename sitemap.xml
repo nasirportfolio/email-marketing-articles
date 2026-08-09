@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://nasirportfolio.github.io/email-marketing-articles/</loc>
-  </url>
+<url>
+<loc>https://nasirportfolio.github.io/email-marketing-articles/</loc>
+</url>
 
-  <url>
-    <loc>https://nasirportfolio.github.io/email-marketing-articles/professional-html-email-signature.md</loc>
-  </url>
+<url>
+<loc>https://nasirportfolio.github.io/email-marketing-articles/how-to-create-html-email-signature-outlook.html</loc>
+</url>
 
-  <url>
-    <loc>https://nasirportfolio.github.io/email-marketing-articles/how-to-create-html-email-signature-gmail.md</loc>
-  </url>
-
-  <url>
-    <loc>https://nasirportfolio.github.io/email-marketing-articles/how-to-create-html-email-signature-outlook.html</loc>
-  </url>
+<url>
+<loc>https://nasirportfolio.github.io/email-marketing-articles/how-to-create-html-email-signature-gmail.html</loc>
+</url>
 
 </urlset>
