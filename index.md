@@ -11,6 +11,7 @@ Welcome to my email marketing knowledge base.
 
 ## Articles
 
+- [How to Make an HTML Email Signature Mobile-Friendly](mobile-friendly-html-email-signature.html)
 - [HTML Email Signature vs Plain Text Signature: Which Is Better?](html-email-signature-vs-plain-text.html)
 - [Why Every Business Needs a Professional HTML Email Signature in 2026](professional-html-email-signature.md)
 
