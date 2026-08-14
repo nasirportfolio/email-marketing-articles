@@ -3,7 +3,7 @@ layout: default
 title: Email Marketing Articles
 ---
 
-<meta name="google-site-verification" content="ziaLfG_QxmTvbOIoHAM72FYDbZgVV5pM5xMfDfrNBmA" />
+<meta name="google-site-verification" content="gbZ4R8TKXxb2_OvpwGncOiAiWizjihBWMPBzvl0DWPs" />
 
 # Email Marketing Articles
 
