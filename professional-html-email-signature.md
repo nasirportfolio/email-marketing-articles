@@ -1,3 +1,8 @@
+---
+layout: default
+title: Why Every Business Needs a Professional HTML Email Signature in 2026
+permalink: /professional-html-email-signature.html
+---
 
 # Why Every Business Needs a Professional HTML Email Signature in 2026
 **Published:** August 2026
