@@ -10,6 +10,7 @@ title: Email Marketing Articles
 Welcome to my email marketing knowledge base.
 
 ## Articles
+https://github.com/nasirportfolio/email-marketing-articles/blob/main/html-email-signature-for-freelancer.html
 https://nasirportfolio.github.io/email-marketing-articles/html-email-signature-templates-small-business.html?utm_source=chatgpt.com
 - [How to Choose the Right HTML Email Signature Design for Your Business](how-to-choose-html-email-signature-design.html)
 - [HTML Email Signature Best Practices for Businesses](html-email-signature-best-practices.html)
