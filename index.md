@@ -10,6 +10,7 @@ title: Email Marketing Articles
 Welcome to my email marketing knowledge base.
 
 ## Articles
+- [HTML Email Signature Best Practices for Businesses](html-email-signature-best-practices.html)
 - [How to Add Social Media Icons to an HTML Email Signature](how-to-add-social-media-icons-html-email-signature.html)
 
 - [How to Make an HTML Email Signature Mobile-Friendly](mobile-friendly-html-email-signature.html)
